@@ -7,3 +7,9 @@ get("/") do
   <p>Define some routes in app.rb</p>
   "
 end
+
+get("/rock") do 
+  "
+  <h1>rock</h1>
+  "
+end 
